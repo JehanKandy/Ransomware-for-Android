@@ -9,8 +9,8 @@ and download tha app
 when you use PC 
 off the realtime protecting for a while for download the app
 <br><br>
-this can download form <br>
-and all credits goes to
+this can download from <br>
+and all credits goes to <br>
 https://github.com/termuxhackers-id/SARA <br>
 also
 <br><br>
